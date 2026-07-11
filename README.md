@@ -92,14 +92,13 @@ I ship a lot of projects — here's the map, organized by domain:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mehmetefeaytas&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetefeaytas&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mehmetefeaytas&theme=github_dark" alt="GitHub stats" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mehmetefeaytas&theme=github_dark" alt="Repos per language" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mehmetefeaytas&theme=github_dark" alt="Most commit language" />
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=mehmetefeaytas&theme=github_dark_dimmed&hide_border=false" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=mehmetefeaytas&theme=github-dark-dimmed&hide_border=false" alt="GitHub streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehmetefeaytas&theme=github-compact&hide_border=false" alt="Contribution activity graph" width="95%" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=mehmetefeaytas&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub trophies" />
 
 </div>
 
@@ -128,13 +127,5 @@ My contribution graph, but make it playable — the grid gets eaten daily:
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mehmetefeaytas/mehmetefeaytas/output/breakout-contribution-graph-dark.svg" />
   <img src="https://raw.githubusercontent.com/mehmetefeaytas/mehmetefeaytas/output/breakout-contribution-graph.svg" alt="Breakout playing the contribution graph" />
 </picture>
-
-</div>
-
----
-
-<div align="center">
-
-*Thanks for stopping by — hayırlı olsun!* ⭐
 
 </div>
