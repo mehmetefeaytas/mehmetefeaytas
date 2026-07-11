@@ -1,34 +1,76 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&width=600&lines=Merhaba!+%F0%9F%91%8B+I'm+Mehmet+Efe+Ayta%C5%9F;Computer+Engineering+Student;Building+things+that+(usually)+work;%C3%87ay-driven+development+%F0%9F%AB%96" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Mehmet+Efe+Ayta%C5%9F+%F0%9F%91%8B;Computer+Engineering+Student;AI+%E2%80%A2+Security+%E2%80%A2+Native+Apps;Kahve-driven+development+%E2%98%95" alt="Typing SVG" />
 
 *Code, kahve, repeat.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehmetefeaytas)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mehmetefeaytas)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mehmetefeaytas)
+[![](https://visitcount.itsvg.in/api?id=mehmetefeaytas&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
 ## 💫 About Me
 
-- 🎓 Computer engineering student
+<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Developer at work" />
+
+- 🎓 Computer Engineering student
+- 🔭 Working across **AI, security and native app development**
 - 🛡️ Currently building **VeriShield** — an open-core disinformation verification engine
-- 🍎 Also crafting native macOS tools in Swift (because the Dock deserved better)
-- 🛰️ Once built a digital twin of a model satellite. Yes, a *satellite*. No, it didn't reach orbit — yet.
-- 🫖 Powered by çay, debugged by sabır
-- 💬 Fun fact: my commit messages are 50% "fix", 30% "final fix", 20% "FINAL fix v2"
+- 🌱 Deep interests: explainable AI, digital twins, real-time systems
+- ✍️ Occasionally writing on [Medium](https://medium.com/@mehmetefeaytas)
+- ☕ Fueled by kahve — non-negotiable
 
-## 🚀 Featured Projects
+<br clear="right" />
 
-| Project | What it does | Stack |
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+## 🗂️ Project Portfolio
+
+I ship a lot of projects — here's the map, organized by domain:
+
+### 🛡️ AI & Security
+
+| Project | Description | Stack |
 |---------|-------------|-------|
-| 🛡️ [VeriShield](https://github.com/mehmetefeaytas/verishield-core) | Open-core disinformation verification & triage engine — teaching the internet to fact-check itself ([core](https://github.com/mehmetefeaytas/verishield-core) · [extension](https://github.com/mehmetefeaytas/verishield-extension) · [enterprise](https://github.com/mehmetefeaytas/verishield-enterprise)) | Python, TypeScript |
-| 🖥️ [dockbars](https://github.com/mehmetefeaytas/dockbars) | A hidden, hover-activated pocket for your macOS Dock. Local-first, no telemetry — your Dock's secret drawer 🤫 | Swift |
-| 🏦 [XAI-Credit-Engine](https://github.com/mehmetefeaytas/XAI-Credit-Engine) | Explainable-AI credit approval system — a loan decision that can actually explain itself | Python |
-| 🛰️ [MUDJI](https://github.com/mehmetefeaytas/MUDJI) | Digital twin of a model satellite — rocket science, but make it simulated | Python |
-| 🎵 [TrackShift](https://github.com/mehmetefeaytas/TrackShift) | Migrates your YouTube playlists to Spotify, so your music taste survives platform wars | Python |
-| 🔔 [SmartQuizBuzzer](https://github.com/mehmetefeaytas/SmartQuizBuzzer) | Real-time quiz buzzer with latency correction — because milliseconds decide champions | HTML, JS |
+| [verishield-core](https://github.com/mehmetefeaytas/verishield-core) | Domain-agnostic disinformation verification & triage engine (open-core, AGPL-3.0) | Python |
+| [verishield-extension](https://github.com/mehmetefeaytas/verishield-extension) | Browser extension bringing VeriShield verification to your feed | TypeScript |
+| [verishield-enterprise](https://github.com/mehmetefeaytas/verishield-enterprise) | Enterprise layer on top of the VeriShield engine | Python |
+| [XAI-Credit-Engine](https://github.com/mehmetefeaytas/XAI-Credit-Engine) | Explainable-AI autonomous credit approval system | Python |
+| [hackathon-Ai-Abusing](https://github.com/mehmetefeaytas/hackathon-Ai-Abusing) | Hackathon project exploring AI misuse detection | JavaScript |
+
+### 🖥️ Apps & Tools
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [dockbars](https://github.com/mehmetefeaytas/dockbars) | Native macOS hidden Dock pocket — hover-activated, local-first, zero telemetry | Swift |
+| [TrackShift](https://github.com/mehmetefeaytas/TrackShift) | Import YouTube & YouTube Music playlists into Spotify | Python |
+| [prayer-time-application](https://github.com/mehmetefeaytas/prayer-time-application) | Prayer time tracker ⭐ | Python |
+| [telegram-file-forwarder](https://github.com/mehmetefeaytas/telegram-file-forwarder) | Forward files from any Telegram channel or group | Python |
+| [Gno-Hesaplayici](https://github.com/mehmetefeaytas/Gno-Hesaplayici) | GPA calculator for Turkish universities | Python |
+| [bokstimer](https://github.com/mehmetefeaytas/bokstimer) | Boxing round timer | C# |
+
+### 🛰️ Hardware & Real-Time
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [MUDJI](https://github.com/mehmetefeaytas/MUDJI) | Digital twin of a model satellite (Model Uydu Dijital İkizi) | Python |
+| [SmartQuizBuzzer](https://github.com/mehmetefeaytas/SmartQuizBuzzer) | Real-time quiz buzzer system with latency correction | HTML, JS |
+
+### 📚 Algorithms & CS Fundamentals
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [phonebook-algorithm-performance](https://github.com/mehmetefeaytas/phonebook-algorithm-performance) | Benchmarking search & sort algorithms on phonebook data | C++ |
+| [lineer-cebir-py](https://github.com/mehmetefeaytas/lineer-cebir-py) | Linear algebra implementations from scratch | Python |
+| [YAZ203](https://github.com/mehmetefeaytas/YAZ203) · [blg103](https://github.com/mehmetefeaytas/blg103) · [blg101](https://github.com/mehmetefeaytas/blg101) | OOP & programming coursework archive | C, C# |
+
+> 📦 Full list: [all repositories](https://github.com/mehmetefeaytas?tab=repositories) — and a few more brewing in private repos ☕
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 💻 Tech Stack
 
@@ -44,7 +86,9 @@
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-## 📊 GitHub Stats
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -53,18 +97,37 @@
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=mehmetefeaytas&theme=github_dark_dimmed&hide_border=false" alt="GitHub streak" />
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mehmetefeaytas&theme=github-compact&hide_border=false" alt="Contribution activity graph" width="95%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=mehmetefeaytas&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub trophies" />
+
 </div>
 
-## 🐍 Contribution Snake
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+## 🕹️ Contribution Arcade
+
+My contribution graph, but make it playable — the grid gets eaten daily:
 
 <div align="center">
 
+<!-- snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mehmetefeaytas/mehmetefeaytas/output/github-contribution-grid-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/mehmetefeaytas/mehmetefeaytas/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+  <img src="https://raw.githubusercontent.com/mehmetefeaytas/mehmetefeaytas/output/github-contribution-grid-snake.svg" alt="Snake eating the contribution graph" />
 </picture>
 
-*Yılan commit'lerimi yiyor ama en azından biri yiyor.* 🐍
+<!-- pacman -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mehmetefeaytas/mehmetefeaytas/output/pacman-contribution-graph-dark.svg" />
+  <img src="https://raw.githubusercontent.com/mehmetefeaytas/mehmetefeaytas/output/pacman-contribution-graph.svg" alt="Pac-Man eating the contribution graph" />
+</picture>
+
+<!-- breakout -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mehmetefeaytas/mehmetefeaytas/output/breakout-contribution-graph-dark.svg" />
+  <img src="https://raw.githubusercontent.com/mehmetefeaytas/mehmetefeaytas/output/breakout-contribution-graph.svg" alt="Breakout playing the contribution graph" />
+</picture>
 
 </div>
 
@@ -72,10 +135,6 @@
 
 <div align="center">
 
-**"It works on my machine"** — me, moments before disaster
-
-[![](https://visitcount.itsvg.in/api?id=mehmetefeaytas&icon=0&color=0)](https://visitcount.itsvg.in)
-
-⭐ *If you scrolled this far, hayırlı olsun — drop a star on something!*
+*Thanks for stopping by — hayırlı olsun!* ⭐
 
 </div>

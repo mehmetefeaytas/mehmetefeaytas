@@ -1,4 +1,4 @@
-name: generate-snake
+name: generate-arcade
 
 on:
   schedule:
@@ -14,10 +14,10 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
 
     steps:
-      - name: generate github-contribution-grid-snake.svg
+      - name: generate snake SVGs
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: mehmetefeaytas
@@ -27,7 +27,13 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: push github-contribution-grid-snake.svg to the output branch
+      - name: generate pacman & breakout SVGs
+        uses: abozanona/pacman-contribution-graph@v5.0.0
+        with:
+          github_user_name: mehmetefeaytas
+          games: "pacman,breakout"
+
+      - name: push SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
