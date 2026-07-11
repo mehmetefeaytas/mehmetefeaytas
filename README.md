@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&width=600&lines=Merhaba!+%F0%9F%91%8B+I'm+Mehmet+Efe+Ayta%C5%9F;Computer+Engineering+Student;Building+things+that+(usually)+work;%C3%87ay-driven+development+%F0%9F%AB%96" alt="Typing SVG" />
 
-*Code, çay, repeat.*
+*Code, kahve, repeat.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehmetefeaytas)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mehmetefeaytas)
@@ -12,7 +12,7 @@
 
 ## 💫 About Me
 
-- 🎓 Computer engineering student from Türkiye 🇹🇷
+- 🎓 Computer engineering student
 - 🛡️ Currently building **VeriShield** — an open-core disinformation verification engine
 - 🍎 Also crafting native macOS tools in Swift (because the Dock deserved better)
 - 🛰️ Once built a digital twin of a model satellite. Yes, a *satellite*. No, it didn't reach orbit — yet.
